@@ -8,7 +8,8 @@ module.exports = {
     themeConfig: {
         lastUpdated: true,
         repo: 'https://github.com/SomeName6/vuepress-docs-test',
-		editLinks: true,
+        editLinks: true,
+		docsDir: 'docs',
 		editLinkText: 'Help us improve this page!',
         nav: [
             { text: 'Home', link: '/'},
