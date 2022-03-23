@@ -7,9 +7,9 @@ module.exports = {
     ],
     themeConfig: {
         lastUpdated: true,
-        // repo: 'https://github.com/SomeName6/vuepress-docs-test',
-		// editLinks: true,
-		// editLinkText: 'Help us improve this page!',
+        repo: 'https://github.com/SomeName6/vuepress-docs-test',
+		editLinks: true,
+		editLinkText: 'Help us improve this page!',
         nav: [
             { text: 'Home', link: '/'},
             { text: 'Guide', link: '/guide/'},
