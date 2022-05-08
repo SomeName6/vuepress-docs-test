@@ -1,7 +1,7 @@
 module.exports = {
     title: 'VuePress Docs Test',
     description: 'VuepPress Documentation Site Testing',
-    base: "/",
+    base: "/vuepress-docs-test/",
     plugins: [
         '@vuepress/back-to-top',
     ],
